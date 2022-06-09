@@ -3,6 +3,7 @@ GEM
   specs:
     json (2.6.2)
     rack (2.2.3.1)
+    webrick (1.7.0)
 
 PLATFORMS
   x86_64-linux
@@ -10,6 +11,7 @@ PLATFORMS
 DEPENDENCIES
   json (~> 2.5)
   rack (~> 2.2)
+  webrick
 
 BUNDLED WITH
    2.2.33
